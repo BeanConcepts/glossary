@@ -5,12 +5,12 @@
 [D](d/index.md) | 
 [E](e/index.md) | 
 [F](f/index.md) | 
-[G](g/index.md)| 
+[G](g/index.md) | 
 [H](h/index.md) | 
-[I](i/index.md)| 
+[I](i/index.md) | 
 [J](j/index.md) | 
 [K](k/index.md) | 
-[L](l/index.md)| 
+[L](l/index.md) | 
 [M](m/index.md) | 
 [N](n/index.md) | 
 [O](o/index.md) | 
@@ -34,12 +34,12 @@
 [AD](a/ad.md) | 
 [AE](a/ae.md) | 
 [AF](a/af.md) | 
-[AG](a/ag.md)| 
+[AG](a/ag.md) | 
 [AH](a/ah.md) | 
-[AI](a/ai.md)| 
+[AI](a/ai.md) | 
 [AJ](a/aj.md) | 
 [AK](a/ak.md) | 
-[AL](a/al.md)| 
+[AL](a/al.md) | 
 [AM](a/am.md) | 
 [AN](a/an.md) | 
 [AO](a/ao.md) | 
