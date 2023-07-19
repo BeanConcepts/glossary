@@ -36,7 +36,7 @@ another module (IEEE 24765-2017, section 3.816)
 - in software design, a measure of the interdependence among modules in a computer program [ISO/IEC TR 19759:2016 Software Engineering — Guide
 to the Software Engineering Body of Knowledge (SWEBOK) 2.1.4
 #### Contains
-- 6 types: pathological, control, hybrid, data, (content)[(co.md#content-coupling)], common-environment
+- 6 types: pathological, control, hybrid, data, [content](co.md#content-coupling), common-environment
 
 ## References
 [1] IEEE Systems and software engineering — Vocabulary. IEEE 24765:2017 (E)
