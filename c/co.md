@@ -16,23 +16,22 @@
 ### Module Cohesion
 #### (module strength) 
 - manner and degree to which the tasks performed by a single software module are related to one another [1, Sec. 3.625]
-- in software design, a measure of the strength of association of the elements within a module [ISO/IEC TR
-19759:2016, Software Engineering — Guide to the Software Engineering Body of Knowledge (SWEBOK)], 2.1.4
+- in software design, a measure of the strength of association of the elements within a module [1, Sec. 3.625] [2, Sec. 2.1.4]
 cf. coupling
 #### Contains
 - 7 types: coincidental, temporal, logical, sequential, procedural, communicational, and functional.
 
 ## Content Coupling
 ### Module Coupling
-- type of coupling in which some or all of the contents of one software module are included in the contents of
+- type of coupling in which **some or all** of the **contents** of one software module are **included** in the contents of
 another module [1, Sec. 3.816]
 #### Type of
 - [Module Coupling](co.md#module-coupling)
 
 ## Control Coupling
 ### Module Coupling
-- type of coupling in which one software module communicates information to another module for the explicit
-purpose of influencing the latter module's execution [1, Sec. 3.853]
+- type of coupling in which one software module **communicates** information to another module for the explicit
+**purpose of influencing** the latter module's **execution** [1, Sec. 3.853]
 #### Type of
 - [Module Coupling](co.md#module-coupling)
 
@@ -41,10 +40,10 @@ purpose of influencing the latter module's execution [1, Sec. 3.853]
 - manner and degree of interdependence between software modules [1, Sec. 3.919]
 - strength of the relationships between modules [1, Sec. 3.919)
 - measure of how closely connected two routines or modules are [1, Sec. 3.919]
-- in software design, a measure of the interdependence among modules in a computer program [ISO/IEC TR 19759:2016 Software Engineering — Guide
-to the Software Engineering Body of Knowledge (SWEBOK) 2.1.4
+- in software design, a measure of the interdependence among modules in a computer program [1, Sec. 3.919] [2, Sec. 2.1.4]
 #### Contains
 - 6 types: pathological, [control](co.md#control-coupling), hybrid, data, [content](co.md#content-coupling), common-environment
 
 ## References
-[1] IEEE Systems and software engineering — Vocabulary. IEEE 24765:2017 (E)
+[1] "ISO/IEC/IEEE International Standard - Systems and software engineering--Vocabulary," in ISO/IEC/IEEE 24765:2017(E) , vol., no., pp.1-541, 28 Aug. 2017, doi: 10.1109/IEEESTD.2017.8016712.
+[2] P. Bourque and R. E. Fairley, Guide to the Software Engineering Body of Knowledge. Los Alamitos, CA: IEEE Computer Society, 2014.
