@@ -21,8 +21,8 @@
 - set of source code files under version control that can be manipulated together as one (IEEE 24765-2017, section 3.2508)
 - collection of both data and the routines that act on it (IEEE 24765-2017, section 3.2508) 
 
-### Module Cohesion
-
+### Contains
+- Module Cohesion
 
 
 ## References
