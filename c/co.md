@@ -22,6 +22,12 @@ cf. coupling
 #### Contains
 - 7 types: coincidental, temporal, logical, sequential, procedural, communicational, and functional.
 
+## Content Coupling
+- type of coupling in which some or all of the contents of one software module are included in the contents of
+another module (IEEE 24765-2017, section 3.816)
+#### Type of
+- Module [Coupling](co.md#module-coupling)
+
 ## Coupling
 ### Module Coupling
 - manner and degree of interdependence between software modules (IEEE 24765-2017, section 3.919)
