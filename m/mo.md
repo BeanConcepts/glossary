@@ -16,13 +16,13 @@
 - a mechanism for improving the flexibility and comprehensibility of a system while allowing the shortening of its development time. (Parnas, 1972)
 
 ## Module
-- a program unit that is (discrete)[https://dictionary.cambridge.org/dictionary/english/discrete] and identifiable with respect to compiling, combining with other units, and loading (IEEE 24765-2017, section 3.2508)
+- a program unit that is [discrete](https://dictionary.cambridge.org/dictionary/english/discrete) and identifiable with respect to compiling, combining with other units, and loading (IEEE 24765-2017, section 3.2508)
 - logically separable part of a program (IEEE 24765-2017, section 3.2508)
 - set of source code files under version control that can be manipulated together as one (IEEE 24765-2017, section 3.2508)
 - collection of both data and the routines that act on it (IEEE 24765-2017, section 3.2508) 
 
 ### Contains
-- Module Cohesion
+- Module [Cohesion](../c/co.md#module-strength)
 
 
 ## References
