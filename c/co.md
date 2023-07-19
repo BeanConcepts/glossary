@@ -22,5 +22,15 @@ cf. coupling
 #### Contains
 - 7 types: coincidental, temporal, logical, sequential, procedural, communicational, and functional.
 
+## Coupling
+### Module Coupling
+- manner and degree of interdependence between software modules (IEEE 24765-2017, section 3.919)
+- strength of the relationships between modules (IEEE 24765-2017, section 3.919)
+- measure of how closely connected two routines or modules are (IEEE 24765-2017, section 3.919)
+- in software design, a measure of the interdependence among modules in a computer program [ISO/IEC TR 19759:2016 Software Engineering — Guide
+to the Software Engineering Body of Knowledge (SWEBOK) 2.1.4
+#### Contains
+- 6 types: pathological, control, hybrid, data, content, common-environment
+
 ## References
 [1] IEEE Systems and software engineering — Vocabulary. IEEE 24765:2017 (E)
