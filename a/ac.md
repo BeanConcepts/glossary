@@ -15,12 +15,14 @@
 
 
 ## Accessibility
+### IEEE Definitions
 - the extent to which products, systems, services, environments and facilities can be used by people from a population 
-with the widest range of characteristics and capabilities to achieve a specified goal in a specified context of use [1, Sec. 3.41][2, Sec. 4.1]
+with the **widest range of characteristics and capabilities** to achieve a **specified goal** in a **specified context of use** [1, Sec. 3.41][2, Sec. 4.1]
 - the degree to which a product or system can be used by people with the widest range of characteristics and capabilities to achieve a
 specified goal in a specified context of use [1, Sec. 3.41][3, Sec. 4.2.4.6]
 - the usability of a product, service, environment or facility by people with the widest range of capabilities [1, Sec. 3.41][4, Sec. 4.1][5, Sec. 4.1]
-
+### UK legal requirement
+- “accessibility requirement” means the requirement to make a website or mobile application accessible by making it **[perceivable](https://dictionary.cambridge.org/dictionary/english/perceivable)**, **operable**, **understandable** and **robust**; [6]
 
 
 ## References
@@ -33,3 +35,5 @@ specified goal in a specified context of use [1, Sec. 3.41][3, Sec. 4.2.4.6]
 [4] ISO/IEC 25062:2006 Software engineering — Software product Quality Requirements and Evaluation (SQuaRE) — Common Industry Format (CIF) for usability test reports
 
 [5] ISO/IEC 26514:2008 Systems and software engineering — requirements for designers and developers of user documentation
+
+[6] “The public sector bodies (websites and mobile applications) (no. 2) accessibility regulations 2018,” Legislation.gov.uk, https://www.legislation.gov.uk/uksi/2018/952/part/1/made (accessed Jul. 20, 2023)
