@@ -52,4 +52,5 @@ another module [1, Sec. 3.816]
 
 ## References
 [1] "ISO/IEC/IEEE International Standard - Systems and software engineering--Vocabulary," in ISO/IEC/IEEE 24765:2017(E) , vol., no., pp.1-541, 28 Aug. 2017, doi: 10.1109/IEEESTD.2017.8016712.
+
 [2] P. Bourque and R. E. Fairley, Guide to the Software Engineering Body of Knowledge. Los Alamitos, CA: IEEE Computer Society, 2014.
