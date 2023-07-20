@@ -21,8 +21,8 @@ with the **widest range of characteristics and capabilities** to achieve a **spe
 - the degree to which a product or system can be used by people with the widest range of characteristics and capabilities to achieve a
 specified goal in a specified context of use [1, Sec. 3.41][3, Sec. 4.2.4.6]
 - the usability of a product, service, environment or facility by people with the widest range of capabilities [1, Sec. 3.41][4, Sec. 4.1][5, Sec. 4.1]
-### UK legal requirement
-- “accessibility requirement” means the requirement to make a website or mobile application accessible by making it **[perceivable](https://dictionary.cambridge.org/dictionary/english/perceivable)**, **operable**, **understandable** and **robust**; [6]
+### UK legal requirements
+- "accessibility requirement" means the requirement to make a website or mobile application accessible by making it **[perceivable](https://dictionary.cambridge.org/dictionary/english/perceivable)**, **operable**, **understandable** and **robust**; [6]
 
 
 ## References
