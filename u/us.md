@@ -11,3 +11,15 @@
 | [UH](uh.md) | [UI](ui.md) | [UJ](uj.md) | [UK](uk.md) | [UL](ul.md) | [UM](um.md) | [UN](un.md) | 
 | [UO](uo.md) | [UP](up.md) | [UQ](uq.md) | [UR](ur.md) | **US** | [UT](ut.md) | [UU](uu.md) | 
 | [UV](uv.md) | [UW](uw.md) | [UX](ux.md) | [UY](uy.md) | [UZ](uz.md) |
+
+
+## Usability
+- the extent to which a system, product or service can be used by **specified users** to achieve **specified goals** with
+_effectiveness_, _efficiency_ and _satisfaction_ in a **specified context of use** [1, Sec. 3.4451][2, Sec. 4.16]
+
+
+## References
+[1] "ISO/IEC/IEEE International Standard - Systems and software engineering--Vocabulary," in ISO/IEC/IEEE 24765:2017(E) , vol., no., pp.1-541, 28 Aug. 2017, doi: 10.1109/IEEESTD.2017.8016712.
+
+[2] ISO/IEC 25064:2013 Systems and software engineering — Software product Quality Requirements and Evaluation (SQuaRE) — Common Industry Format (CIF) for usability: User needs report
+
