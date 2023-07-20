@@ -21,6 +21,12 @@ cf. coupling
 #### Contains
 - 7 types: coincidental, temporal, logical, sequential, procedural, communicational, and functional.
 
+## Common-environment Coupling
+### Module Coupling, Common Coupling
+- type of coupling in which two software modules access a common data area [1, Sec. 3.654]
+#### Type of
+- [Module Coupling](co.md#module-coupling)
+
 ## Content Coupling
 ### Module Coupling
 - type of coupling in which **some or all** of the **contents** of one software module are **included** in the contents of
