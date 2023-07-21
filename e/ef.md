@@ -18,9 +18,16 @@
 - **accuracy** and **completeness** with which users **achieve** specified goals [1, Sec. 3.1347][2, Sec. 4.2]
 - extent to which **planned** activities are **realized** and planned results **achieved** [3, Sec. 3.1.3]
 - relation of the goals of using the product to the accuracy and completeness with which these goals might be achieved [4, Sec. 3.14]
-
 ### Eg: 
 - For documentation, common measures include percentage of task completion, frequency of defects, frequency of assists, frequency of accesses to help or documentation.
+
+
+## Efficiency
+- degree to which a system or component performs its designated functions with minimum consumption of resources
+- resources expended in relation to the accuracy and completeness with which users achieve goals [1, Sec. 3.1349][2, Sec. 4.3]
+- relation of the level of effectiveness achieved to the quantity of resources expended [1, Sec. 3.1349][4, Sec. 3.15]
+- relationship between the result achieved and the resources used [5, Sec. 4.17]
+
 
 ## References
 [1] "ISO/IEC/IEEE International Standard - Systems and software engineering--Vocabulary," in ISO/IEC/IEEE 24765:2017(E) , vol., no., pp.1-541, 28 Aug. 2017, doi: 10.1109/IEEESTD.2017.8016712.
@@ -30,3 +37,5 @@
 [3] ISO/IEC 33001:2015 Information technology — Process assessment — Concepts and terminology
 
 [4] ISO/IEC 26513:2009 Systems and software engineering — Requirements for testers and reviewers of user documentation
+
+[5] ISO/IEC 16350-2015 Information technology — Systems and software engineering — Application management
