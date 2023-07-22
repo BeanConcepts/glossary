@@ -20,13 +20,16 @@
 - relation of the goals of using the product to the accuracy and completeness with which these goals might be achieved [4, Sec. 3.14]
 ### Eg: 
 - For documentation, common measures include percentage of task completion, frequency of defects, frequency of assists, frequency of accesses to help or documentation.
-
+### Attribute of
+- [Usability](../u/us.md#usability)
 
 ## Efficiency
 - degree to which a system or component performs its designated functions with minimum consumption of resources
 - resources expended in relation to the accuracy and completeness with which users achieve goals [1, Sec. 3.1349][2, Sec. 4.3]
 - relation of the level of effectiveness achieved to the quantity of resources expended [1, Sec. 3.1349][4, Sec. 3.15]
 - relationship between the result achieved and the resources used [5, Sec. 4.17]
+### Attribute of
+- [Usability](../u/us.md#usability)
 
 
 ## References
