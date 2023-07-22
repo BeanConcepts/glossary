@@ -15,7 +15,7 @@
 
 ## Usability
 - the extent to which a system, product or service can be used by **specified users** to achieve **specified goals** with
-_[effectiveness](../e/ef.md#Effectiveness)_, _[efficiency](../e/ef.md#Efficiency)_ and _[satisfaction](../s/sa.md#Satisfaction)_ in a **specified context of use** [1, Sec. 3.4451][2, Sec. 4.16]
+_[effectiveness](../e/ef.md#effectiveness)_, _[efficiency](../e/ef.md#efficiency)_ and _[satisfaction](../s/sa.md#satisfaction)_ in a **specified context of use** [1, Sec. 3.4451][2, Sec. 4.16]
 
 
 ## References
