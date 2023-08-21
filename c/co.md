@@ -14,9 +14,8 @@
 
 ## Cohesion
 ### Module Cohesion
-#### (module strength) 
-- manner and degree to which the tasks performed by a single software module are related to one another [1, Sec. 3.625]
-- in software design, a measure of the strength of association of the elements within a module [1, Sec. 3.625] [2, Sec. 2.1.4]
+- manner and degree to which the **tasks performed** by a single software module are **related to one another** [1, Sec. 3.625]
+- in software design, a **measure of the strength of association** of the **elements within a module** [1, Sec. 3.625] [2, Sec. 2.1.4]
 cf. coupling
 #### Contains
 - 7 types: coincidental, temporal, logical, sequential, procedural, communicational, and functional.
@@ -43,10 +42,10 @@ another module [1, Sec. 3.816]
 
 ## Coupling
 ### Module Coupling
-- manner and degree of interdependence between software modules [1, Sec. 3.919]
-- strength of the relationships between modules [1, Sec. 3.919)
-- measure of how closely connected two routines or modules are [1, Sec. 3.919]
-- in software design, a measure of the interdependence among modules in a computer program [1, Sec. 3.919] [2, Sec. 2.1.4]
+- manner and degree of **interdependence between software modules** [1, Sec. 3.919]
+- **strength of the relationships** between modules [1, Sec. 3.919)
+- **measure of how closely connected** two routines or modules are [1, Sec. 3.919]
+- in software design, a **measure of the interdependence** among modules in a computer program [1, Sec. 3.919] [2, Sec. 2.1.4]
 #### Contains
 - 6 types: pathological, [control](co.md#control-coupling), hybrid, data, [content](co.md#content-coupling), common-environment
 
