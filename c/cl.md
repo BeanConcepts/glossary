@@ -8,11 +8,18 @@
 | [V](../v/index.md) | [W](../w/index.md) | [X](../x/index.md) | [Y](../y/index.md) | [Z](../z/index.md) |
 |                    |                    |                    |                    |                    |                    |                    |
 | [CA](ca.md)        | [CB](cb.md)        | [CC](cc.md)        | [CD](cd.md)        | [CE](ce.md)        | [CF](cf.md)        | [CG](cg.md)        | 
-| [CH](ch.md)        | [CI](ci.md)        | [CJ](cj.md)        | [CK](ck.md)        | [CL](cl.md)        | [CM](cm.md)        | [CN](cn.md)        | 
-| **CO**             | [CP](cp.md)        | [CQ](cq.md)        | [CR](cr.md)        | [CS](cs.md)        | [CT](ct.md)        | [CU](cu.md)        | 
+| [CH](ch.md)        | [CI](ci.md)        | [CJ](cj.md)        | [CK](ck.md)        | **CL**             | [CM](cm.md)        | [CN](cn.md)        | 
+| [CO](co.md)        | [CP](cp.md)        | [CQ](cq.md)        | [CR](cr.md)        | [CS](cs.md)        | [CT](ct.md)        | [CU](cu.md)        | 
 | [CV](cv.md)        | [CW](cw.md)        | [CX](cx.md)        | [CY](cy.md)        | [CZ](cz.md)        |
 
 ## Cluster
+
+- configuration of basic engineering objects forming a single unit for the purposes of deactivation, checkpointing,
+  reactivation, recovery and migration [2, Sec. 8.1.2]
+
+### Eg:
+
+- a segment of virtual memory containing objects
 
 ### Kubernetes cluster
 
@@ -23,4 +30,6 @@
 
 ## References
 
-[1] “Nodes,” Kubernetes, https://kubernetes.io/docs/concepts/architecture/ (accessed Sep. 1, 2023). 
+[1] “Cluster architecture,” Kubernetes, https://kubernetes.io/docs/concepts/architecture/ (accessed Sep. 1, 2023). 
+
+[2] ISO/IEC 10746-3:2009 Information technology — Open Distributed Processing — Reference Model: Architecture
