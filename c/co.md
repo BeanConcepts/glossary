@@ -40,6 +40,10 @@ another module [1, Sec. 3.816]
 #### Type of
 - [Module Coupling](co.md#module-coupling)
 
+## Controllers
+### Kubernetes controllers
+- controllers are control loops that watch the state of your cluster, then make or request changes where needed. Each controller tries to move the current cluster state closer to the desired state.
+
 ## Coupling
 ### Module Coupling
 - manner and degree of **interdependence between software modules** [1, Sec. 3.919]
