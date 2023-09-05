@@ -25,7 +25,7 @@
 
 #### Contains
 
-- 9 components: [Nodes](../n/no.md#Nodes), Communication between [Nodes](../n/no.md#Nodes) and the Control Plane, [Controllers](co.md#Controllers), Leases, Cloud Controller Manager,
+- 9 components: [Nodes](../n/no.md#Nodes), Communication between Nodes and the Control Plane, [Controllers](co.md#Controllers), Leases, Cloud Controller Manager,
   About cgroup v2, Container Runtime Interface (CRI), Garbage Collection, Mixed Version Proxy. [1]
 
 ## References
