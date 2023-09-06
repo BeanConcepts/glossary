@@ -41,7 +41,7 @@ another module [1, Sec. 3.816]
 - [Module Coupling](co.md#module-coupling)
 
 ## Control plane
-- The container orchestration layer that exposes the API and interfaces to define, deploy, and manage the lifecycle of containers.
+- The container orchestration layer that exposes the API and interfaces to define, deploy, and manage the lifecycle of containers. [4]
 
 ### Contains
 - 5 components: etcd, API Server, Scheduler, [Controller Manager](co.md#Kubernetes-Controller-Manager), Cloud Controller Manager
@@ -49,10 +49,10 @@ another module [1, Sec. 3.816]
 
 ## Controllers
 ### Kubernetes Controllers
-- controllers are control loops that watch the state of your cluster, then make or request changes where needed. Each controller tries to move the current cluster state closer to the desired state.
+- controllers are control loops that watch the state of your cluster, then make or request changes where needed. Each controller tries to move the current cluster state closer to the desired state. [3]
 
 ### Kubernetes Controller Manager
-- Control plane component that runs controller processes, but to reduce complexity, they are all compiled into a single binary and run in a single process.
+- Control plane component that runs controller processes, but to reduce complexity, they are all compiled into a single binary and run in a single process. [4]
 
 ## Coupling
 ### Module Coupling
