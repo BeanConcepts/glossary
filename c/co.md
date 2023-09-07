@@ -51,6 +51,10 @@ another module [1, Sec. 3.816]
 ### Kubernetes Controllers
 - controllers are control loops that watch the state of your cluster, then make or request changes where needed. Each controller tries to move the current cluster state closer to the desired state. [3]
 
+#### Eg:
+
+The [reconcile](https://github.com/kubernetes/kubernetes/blob/163553bbe0a6746e7719380e187085cf5441dfde/staging/src/k8s.io/cloud-provider/controllers/route/route_controller.go#L155) function is a control loop that will make **routeMap** info and network routes for Kubernetes nodes identical
+
 ### Kubernetes Controller Manager
 - Control plane component that runs controller processes, but to reduce complexity, they are all compiled into a single binary and run in a single process. [4]
 
